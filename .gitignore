@@ -1,0 +1,23 @@
+# Compiled objects
+*.o
+*.a
+*.so
+
+# Executable
+particle
+
+# Build artifacts
+*.out
+*.exe
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Temporary files
+*.tmp
+*.temp
