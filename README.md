@@ -162,7 +162,7 @@ This project is open source. Feel free to use, modify, and distribute as needed.
 
 ## Author
 
-**Aditya Nsha**  
+**Aadityansha**  
 GitHub: [@aadityansha06](https://github.com/aadityansha06)
 
 ---
