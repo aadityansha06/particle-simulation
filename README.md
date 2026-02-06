@@ -18,7 +18,10 @@ A interactive 2D particle physics simulation built with **C** and **Raylib**. Wa
 
 Watch the particle simulation in action:
 
-https://github.com/aadityansha06/particle-simulation/assets/demo.mp4
+<video width="100%" controls>
+  <source src="asset/Demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 The simulation creates a dynamic environment with 150 particles bouncing around the screen. Each particle:
 - Falls under gravity (0.2 units/frame²)
